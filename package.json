@@ -1,0 +1,19 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bntzio/notes-node.git"
+  },
+  "author": "Enrique Benitez <bntz.io>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yargs": "^4.7.1"
+  }
+}
